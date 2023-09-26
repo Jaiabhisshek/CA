@@ -1,0 +1,133 @@
+
+.bg {
+    background-image: url("https://res.cloudinary.com/dsi2vvtyk/image/upload/v1695719150/background_picture_arogt1.png");
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  } 
+#box1{
+    background-color: white;
+    height: 344px;
+    width: 300px;
+    position: absolute;
+    margin-top: 250px;
+    margin-left: 15px;
+
+}
+#box2{
+    background-color: white;
+    /* border: 2px solid red; */
+    height: 344px;
+    width: 300px;
+    position: absolute;
+    margin-top: 250px;
+    margin-left: 335px;
+    margin-bottom: 0%;
+}
+
+#box3{
+    background-color: white;
+    height:344px;
+    width: 300px;
+    /* border: 2px solid red;  */
+    position: absolute;
+    margin-top: 250px;
+    margin-left: 650px;
+
+}
+#box4{
+    background-color: white;
+    height: 150px;
+    width: 300px;
+    /* border: 2px solid red;   */
+    position: absolute;
+    margin-top: 250px;
+    margin-left: 967px;
+    
+} 
+
+#TV{
+    width: 125px;
+    height: 75px;
+    position: absolute;
+    margin-top: 30%;
+    margin-left: 5%;
+}
+
+#appliances{
+    width: 125px;
+    position: absolute;
+    margin-top: 30%;
+    margin-left: 55%;
+}
+
+#furniture{
+    width: 125px;
+    position: absolute;
+    margin-top: 70%;
+    margin-left: 5%;
+}
+
+#kitchen{
+    width: 125px;
+    position: absolute;
+    margin-top: 70%;
+    margin-left: 55%;
+}
+
+#SUB1{
+    font-size: larger;
+    position: absolute;
+    margin-left: 15px;
+}
+
+#LED{
+    position: absolute;
+    margin-top: 58%;
+    margin-left: 5%;
+}
+
+#APP{
+    margin-top: 58%;
+    margin-left: 55%;
+}
+
+#FUR{
+    position: absolute;
+    margin-top: 28%;
+    margin-left: 5%;
+}
+
+#KIT{
+    position: absolute;
+    margin-top: 28%;
+    margin-left: 55%;
+}
+
+#LAP{
+    width: 250px;
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 28px;
+}
+
+#sub3{
+    text-align: center;
+    font-size: larger;
+}
+
+#yellobox{
+    width: 200px;
+    height: 50px;
+    background-color: gold;
+    border-radius: 30px;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 50px;
+    text-align: center;
+}
+
+#sub{
+    text-align: center;
+}
